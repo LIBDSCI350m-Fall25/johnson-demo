@@ -13,4 +13,6 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-cataloger, Cataloger
+cataloger,Cataloger
+access_restrictions,Additional Access Restrictions
+citation,Citation
